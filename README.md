@@ -1,6 +1,12 @@
 # Instacart-analysis
-This analysis is focused on establishing deriving key insights about customer purchase behavior from Instacart orders and how that can be used to help retailers, increase basket size and also increase customer engagement 
+This analysis is focused on deriving key insights about customer purchase behavior from Instacart orders and how that can be used to help small scale retailers in running their marketing campaigns, identifying frequently bought together products to improve their mobile app user experience as well as increasing basket size and also increasing customer engagement.
 
+# A Story on purchase patterns of consumers for specific departments
+https://public.tableau.com/profile/pooja.tyagi#!/vizhome/DerivingsalesatretailstoreswithInstacartordersinsights/PurchasebehavioratInstacart
+
+# Description of all the files in src folder
+## Final Report
+This report provides a complete analysis of how consumer purchase patterns and market basket analysis on instacart data can help local retailers in improving their consumer experience and running marketing campaigns.
 
 
 # Download the interactive charts files
